@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1795525494734,
+    "name": "Ali",
+    "event": "Mushaira",
+    "ticketType": "VIP",
+    "price": 50
+  },
+  {
+    "id": 1795525525877,
+    "name": "Sara",
+    "event": "Coding competetion",
+    "ticketType": "Standard",
+    "price": 40
+  }
+]
